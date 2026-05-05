@@ -1,0 +1,626 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "slug": "neon-nights-grand-opening",
+      "title": "Neon Nights Grand Opening",
+      "excerpt": "A major opening night with house, live percussion, visuals, and a countdown show built to launch the new season.",
+      "description": "Night Club opens its doors again with an evening of house, visuals, and live percussion on the main stage. Guests can expect welcome drinks from 21:00, an upgraded lighting setup, and a program that builds toward a big countdown show at midnight.",
+      "content": "Neon Nights Grand Opening marks the start of the new season at Night Club. The evening is designed as a complete club experience, with a warmer lounge mood in the first hours, a sharper visual identity on the main floor, and a line-up that gradually pushes the energy toward midnight.\n\nThe program opens with welcome drinks and a more melodic house set, giving both table guests and walk-ins time to settle into the room before the dance floor takes over. Later in the evening, the lighting shifts into a brighter neon universe with live percussion, short visual drops, and a countdown show that marks the relaunch of the club.\n\nThis is the night for guests who want to experience the venue from the beginning and feel how the new sound and lighting profile work together. The bar runs a short opening menu with citrus-driven cocktails, and the lounge is set up for groups who want a calmer start before the main stage fills the room.\n\nHigh demand is expected for table reservations on this night, so guests who want a fixed base throughout the evening should reserve in advance. Doors open early, but the main program builds from 22:00 and peaks around midnight.",
+      "date": "2026-05-09T21:00:00+02:00",
+      "doorsOpen": "2026-05-09T20:00:00+02:00",
+      "asset": {
+        "url": "/file-bucket/event-thumb1.jpg",
+        "width": 570,
+        "height": 403,
+        "alt": "Singer performing under purple stage lights"
+      },
+      "heroAsset": {
+        "url": "/file-bucket/event-hero1.jpg",
+        "width": 1170,
+        "height": 500,
+        "alt": "Singer performing to a packed purple-lit club"
+      },
+      "location": "Center Stage",
+      "category": "House",
+      "lineup": ["Mika Vale", "Nora Lumen", "Live percussion by Elias B"],
+      "schedule": [
+        {
+          "time": "21:00",
+          "label": "Doors and welcome drinks"
+        },
+        {
+          "time": "22:30",
+          "label": "Warm-up house set"
+        },
+        {
+          "time": "00:00",
+          "label": "Neon countdown show"
+        }
+      ],
+      "price": "150 DKK",
+      "ageLimit": "18+",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "slug": "retro-rewind-80s-90s",
+      "title": "Retro Rewind: 80s & 90s",
+      "excerpt": "A colorful throwback night with pop, disco, old school R&B, and signature cocktails inspired by two decades of club classics.",
+      "description": "A full evening dedicated to classic floorfillers from the 80s and 90s. The DJ team mixes pop, disco, and old school R&B while the bar serves signature cocktails inspired by the biggest club hits of the era.",
+      "content": "Retro Rewind brings together the biggest club moments from the 80s and 90s for a night where recognition, sing-alongs, and danceable hooks are the whole point. The music moves from disco and synthpop to eurodance, R&B, and the pop tracks that can still fill a dance floor in seconds.\n\nThe night is built for groups, birthdays, and guests who want a more playful club experience without losing Night Club's dark, polished feel. The bar serves a smaller retro menu with colorful cocktails, and the staff focuses on fast service so guests can get back to the floor when the next familiar chorus hits.\n\nThe DJ team is not playing a straight nostalgia playlist from start to finish. The set is curated as a modern club night with edits, transitions, and small surprises, so the energy still feels current. Early in the evening the tempo is more open and social, while the later hours gather the room around the biggest floorfillers.\n\nThere is no required dress code, but guests are welcome to lean into glitter, denim, leather jackets, tracksuits, or other references from the decades. The important thing is that the night feels easy to join, high in energy, and full of tracks people can share across age and taste.",
+      "date": "2026-05-16T21:00:00+02:00",
+      "doorsOpen": "2026-05-16T20:00:00+02:00",
+      "asset": {
+        "url": "/file-bucket/event-thumb2.jpg",
+        "width": 570,
+        "height": 403,
+        "alt": "Male vocalist onstage under pink lights"
+      },
+      "heroAsset": {
+        "url": "/file-bucket/event-hero2.jpg",
+        "width": 1170,
+        "height": 500,
+        "alt": "Male performer singing to a dark club crowd"
+      },
+      "location": "Center Stage",
+      "category": "Retro",
+      "lineup": ["DJ Vester", "Sofie Selects", "MC Jay Monroe"],
+      "schedule": [
+        {
+          "time": "21:00",
+          "label": "Doors and retro cocktail bar"
+        },
+        {
+          "time": "22:00",
+          "label": "80s pop and disco warm-up"
+        },
+        {
+          "time": "00:30",
+          "label": "90s club classics"
+        }
+      ],
+      "price": "120 DKK",
+      "ageLimit": "18+",
+      "isFeatured": false
+    },
+    {
+      "id": 3,
+      "slug": "bass-drop-dubstep-edition",
+      "title": "Bass Drop: Dubstep Edition",
+      "excerpt": "A heavy Friday with dubstep, bass music, guest DJs, and a stage show built around dark visuals and physical sound.",
+      "description": "Friday's program pushes tempo and sub-bass all the way up with guest DJs, an MC host, and a crowd that comes for heavy drops and a dark club atmosphere. The night is aimed at guests who want to get close to the stage and feel the sound physically.",
+      "content": "Bass Drop: Dubstep Edition is Night Club's heaviest Friday in the program. The night is built for guests who come for sub-bass, hard drops, and a rawer atmosphere close to the stage. The sound system is tuned with extra focus on low-end, clarity, and dynamics, so the room can feel massive without becoming muddy.\n\nThe music starts in the deeper end of bass music, with dark garage and dubstep references before guest DJs take over and push the tempo upward. An MC host ties the night together with short callouts, but there is still room for long instrumental passages where light and smoke build tension before the biggest drop sections.\n\nVisually, the stage is kept more industrial than the other events. Guests can expect strobe moments, low light, heavy color blocks, and short blackouts that make the transitions more dramatic. This is not a polished lounge night, but a focused club session for people who want to stand close, react quickly, and feel the production physically.\n\nThe bar runs a faster setup for this event with simple highballs, energy-driven serves, and a water station closer to the floor. Table reservations are still available, but the night is primarily built around the stage and the dance floor.",
+      "date": "2026-05-22T21:00:00+02:00",
+      "doorsOpen": "2026-05-22T20:30:00+02:00",
+      "asset": {
+        "url": "/file-bucket/event-thumb3.jpg",
+        "width": 570,
+        "height": 403,
+        "alt": "Performer in a white jacket singing under blue lights"
+      },
+      "heroAsset": {
+        "url": "/file-bucket/event-hero3.jpg",
+        "width": 1170,
+        "height": 500,
+        "alt": "Solo performer leaning into a blue-lit crowd"
+      },
+      "location": "Center Stage",
+      "category": "Bass",
+      "lineup": ["KATOX", "Runa Bass", "Hosted by MC North"],
+      "schedule": [
+        {
+          "time": "21:30",
+          "label": "Deep bass warm-up"
+        },
+        {
+          "time": "23:30",
+          "label": "Guest DJ set"
+        },
+        {
+          "time": "01:00",
+          "label": "Peak-time dubstep session"
+        }
+      ],
+      "price": "140 DKK",
+      "ageLimit": "18+",
+      "isFeatured": false
+    },
+    {
+      "id": 4,
+      "slug": "techno-bunker-underground",
+      "title": "Techno Bunker Underground",
+      "excerpt": "An uncompromising techno concept with local selectors, strobes, smoke bursts, and long hypnotic mixes in the basement room.",
+      "description": "The basement room is transformed into a raw techno universe with strobe lights, smoke bursts, and a line-up of local selectors. The focus is on long mixes, hypnotic grooves, and a more uncompromising late-night experience than the classic weekend parties.",
+      "content": "Techno Bunker Underground moves the focus away from big sing-along moments and into a more concentrated, dark, and physical club room. The night is programmed around local selectors who work with long transitions, hypnotic grooves, and patient build-ups instead of quick radio hooks.\n\nThe room is set up like a bunker with low front light, layers of smoke, and strobe patterns that only fully unfold later in the night. The audience gets a more intense experience than on the broader Saturday concepts, and the energy is designed to grow over time rather than peak every three minutes.\n\nMusically, the evening moves from deep and dubby techno into more driving peak-time material. The early hours give guests space to settle into the sound, while the night after midnight becomes more focused, heavier, and more repetitive. This is an event for guests who want to stay late and commit to a coherent arc.\n\nTable reservations are limited on this night to keep the floor open and improve flow around the stage. Guests who arrive early get the best chance to experience the full build from the first restrained tracks to the hardest hours after 01:00.",
+      "date": "2026-05-30T21:00:00+02:00",
+      "doorsOpen": "2026-05-30T20:30:00+02:00",
+      "asset": {
+        "url": "/file-bucket/event-thumb4.jpg",
+        "width": 570,
+        "height": 403,
+        "alt": "Club crowd raising hands toward red stage lights"
+      },
+      "heroAsset": {
+        "url": "/file-bucket/event-hero4.jpg",
+        "width": 1170,
+        "height": 500,
+        "alt": "Live band playing for a red-lit dance floor"
+      },
+      "location": "Basement Room",
+      "category": "Techno",
+      "lineup": ["Aksel Ravn", "Mira Kold", "Noir Transit"],
+      "schedule": [
+        {
+          "time": "21:30",
+          "label": "Basement opens"
+        },
+        {
+          "time": "23:00",
+          "label": "Local selectors rotation"
+        },
+        {
+          "time": "01:00",
+          "label": "Peak bunker set"
+        }
+      ],
+      "price": "130 DKK",
+      "ageLimit": "20+",
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "slug": "disco-fever-saturday",
+      "title": "Disco Fever Saturday",
+      "excerpt": "A Saturday night of glitter, grooves, feel-good energy, and modern disco edits from the first drink to the final shared chorus.",
+      "description": "Saturday's disco concept brings glitter, grooves, and classic sing-alongs together in one long dance floor set. Guests enter a more festive dress-code universe, mirror balls above the bar, and a soundtrack focused on feel-good energy from start to finish.",
+      "content": "Disco Fever Saturday is built for the big Saturday night, where Night Club should feel festive from the first step through the door. The concept brings together classic disco, modern edits, funk, soul, and pop-leaning house productions for an evening where warm grooves and recognizable melodies matter more than hard drops.\n\nThe room gets a brighter and more golden expression than the darker Friday concepts. Mirror balls above the bar, warmer colors on stage, and a more open lounge flow make the night well suited for groups, birthdays, and guests who want a club night with social energy without losing the dance floor.\n\nThe DJ builds the night in waves. First with soul, funk, and disco edits, then with larger vocal house and sing-along tracks that gather the crowd around the floor. The bar leans into the theme with fresher cocktails, sparkling serves, and a quick menu that suits guests moving between table, bar, and dancing.\n\nThere is no formal dress code, but glitter, color, and 70s references fit the night well. For guests with table reservations, this is one of the most obvious events in the program because the mood is high without becoming too narrow musically.",
+      "date": "2026-06-06T21:00:00+02:00",
+      "doorsOpen": "2026-06-06T20:00:00+02:00",
+      "asset": {
+        "url": "/file-bucket/event-thumb5.jpg",
+        "width": 570,
+        "height": 403,
+        "alt": "Group of smiling guests posing with glow sticks"
+      },
+      "heroAsset": {
+        "url": "/file-bucket/event-hero5.jpg",
+        "width": 1170,
+        "height": 500,
+        "alt": "Party guests posing in a busy nightclub crowd"
+      },
+      "location": "Center Stage",
+      "category": "Disco",
+      "lineup": ["Clara Nova", "The Saturday Edit", "Guest vocalist: Lina Ray"],
+      "schedule": [
+        {
+          "time": "21:00",
+          "label": "Doors and disco lounge"
+        },
+        {
+          "time": "22:30",
+          "label": "Funk and disco edits"
+        },
+        {
+          "time": "00:30",
+          "label": "Saturday sing-along set"
+        }
+      ],
+      "price": "125 DKK",
+      "ageLimit": "18+",
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "slug": "house-party-vibes",
+      "title": "House Party Vibes",
+      "excerpt": "A relaxed house night with warm beats, vocal samples, and plenty of room to move between lounge, bar, and dance floor.",
+      "description": "House Party Vibes is the more relaxed club night, where warm house beats, vocal samples, and an open dance floor set the tone. The program is put together for guests who want to start late, stay long, and move between the bar, lounge, and floor throughout the evening.",
+      "content": "House Party Vibes is a looser and more social club night, where Night Club turns down the hardest stage effects and turns up warmth, rhythm, and flow. The night is made for guests who want to talk in the beginning, find their way onto the floor later, and move freely between lounge, bar, and dance floor without losing the mood.\n\nThe music is based on vocal house, deep house, and groovy edits that feel easy to enter but still have enough edge to carry a full night. The sets are built with long transitions and clear vocal hooks, so the room feels connected without becoming too intense too early.\n\nThe concept works especially well for smaller groups, after-work plans, and guests who want to start the weekend with a club night that does not require a specific theme or dress code. The bar serves both signature cocktails and simpler highballs, while the lounge area stays open so guests can take breaks without leaving the party.\n\nLater in the night, the main floor gets more pressure, but House Party Vibes keeps its warm and inclusive energy. It is not the event with the most special effects, but it is one of the concepts where the whole venue can be used most naturally.",
+      "date": "2026-06-13T21:00:00+02:00",
+      "doorsOpen": "2026-06-13T20:00:00+02:00",
+      "asset": {
+        "url": "/file-bucket/event-thumb6.jpg",
+        "width": 570,
+        "height": 403,
+        "alt": "Female vocalist singing under green lights"
+      },
+      "heroAsset": {
+        "url": "/file-bucket/event-hero6.jpg",
+        "width": 1170,
+        "height": 500,
+        "alt": "Singer performing to a green-lit club crowd"
+      },
+      "location": "Center Stage",
+      "category": "House",
+      "lineup": ["Jonas Field", "Maja Bloom", "Late set by PALM"],
+      "schedule": [
+        {
+          "time": "21:00",
+          "label": "Doors and lounge warm-up"
+        },
+        {
+          "time": "23:00",
+          "label": "Vocal house set"
+        },
+        {
+          "time": "01:00",
+          "label": "Late house session"
+        }
+      ],
+      "price": "110 DKK",
+      "ageLimit": "18+",
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "slug": "midnight-latin-heat",
+      "title": "Midnight Latin Heat",
+      "excerpt": "A warm club night with reggaeton, Latin house, percussion, and a dance floor built for groups, energy, and late summer beats.",
+      "description": "Midnight Latin Heat brings reggaeton, Latin house, and percussive club edits to the main stage. The night is built for guests who want a more rhythmic and outgoing club experience with warm lighting, fast transitions, and plenty of movement on the floor.",
+      "content": "Midnight Latin Heat is Night Club's most rhythmic and sun-warmed event in the calendar. While some of the other nights work with darker house, techno, or bass, this club night starts from reggaeton, Latin house, Afro-inspired grooves, and percussive edits that quickly make the room feel more open and physical.\n\nThe night begins with a more melodic warm-up, where guests can land in the lounge, order drinks, and find their table before percussion and vocal hooks gradually pull more people toward the dance floor. Later, the program shifts into a tighter and more energetic main-room set with short live percussion breaks, quick blends, and lighting built around warm pink, amber, and violet tones.\n\nThe concept is ideal for larger groups, birthdays, and guests who want an evening where the music is easy to enter without becoming too polished. The bar leans into the theme with fresh cocktails, citrus, rum, and tequila-based serves, but the setup is still fast enough for a busy club night.\n\nMidnight Latin Heat is not meant as a concert or a strict genre night. It is a club night with Latin energy at the center, while still leaving room for familiar club tracks, house edits, and surprises along the way. Guests who book a table get a strong base close to the main floor, while walk-ins can use the night as a more spontaneous and danceable Saturday.",
+      "date": "2026-06-20T21:00:00+02:00",
+      "doorsOpen": "2026-06-20T20:00:00+02:00",
+      "asset": {
+        "url": "/file-bucket/event-thumb7.jpg",
+        "width": 570,
+        "height": 403,
+        "alt": "Dance floor crowd under pink and blue lasers"
+      },
+      "heroAsset": {
+        "url": "/file-bucket/event-hero7.jpg",
+        "width": 1170,
+        "height": 500,
+        "alt": "Packed dance floor with pink and blue stage lights"
+      },
+      "location": "Center Stage",
+      "category": "Latin",
+      "lineup": ["Isabella Cruz", "DJ Mateo", "Percussion by Nico Vega"],
+      "schedule": [
+        {
+          "time": "21:00",
+          "label": "Doors and latin cocktail bar"
+        },
+        {
+          "time": "22:30",
+          "label": "Reggaeton and latin house warm-up"
+        },
+        {
+          "time": "00:30",
+          "label": "Midnight percussion set"
+        }
+      ],
+      "price": "135 DKK",
+      "ageLimit": "18+",
+      "isFeatured": false
+    },
+    {
+      "id": 8,
+      "slug": "afterglow-rnb-sessions",
+      "title": "Afterglow R&B Sessions",
+      "excerpt": "A more luxurious lounge-to-club night with R&B, amapiano, slow house, and warm late-night edits.",
+      "description": "Afterglow R&B Sessions is a more elegant and atmospheric night, where R&B, amapiano, slow house, and late-night edits connect lounge, bar, and dance floor. The concept suits guests who want to start calmly and let the energy grow later in the night.",
+      "content": "Afterglow R&B Sessions is created for guests who use Night Club as more than a dance floor. The evening starts at a lower tempo with R&B, soul-inspired edits, and warm basslines, so the lounge area, tables, and bar feel like an active part of the experience from the beginning.\n\nLater, the program opens up toward amapiano, slow house, and more club-oriented R&B edits that gradually move the focus from conversations and cocktails to the dance floor. It is a night with fewer hard switches and more flowing transitions, allowing the music to build the mood instead of forcing it too early.\n\nThe lighting is more intimate than on the big main-room concepts. Guests meet warm amber highlights, violet neon, restrained strobes, and a stage design that fits a more exclusive late-night atmosphere. The bar works with darker cocktails, sparkling serves, and simple highballs that suit guests who stay at the table a little longer before moving to the floor.\n\nAfterglow R&B Sessions is especially suited for table reservations, dates, smaller groups, and guests who want a more grown-up club night without losing energy after midnight. At its best, the evening feels like a smooth transition from lounge to club, where guests can stay inside the same mood all night.",
+      "date": "2026-06-27T21:00:00+02:00",
+      "doorsOpen": "2026-06-27T20:30:00+02:00",
+      "asset": {
+        "url": "/file-bucket/event-thumb8.jpg",
+        "width": 570,
+        "height": 403,
+        "alt": "Guests watching a purple-lit club stage"
+      },
+      "heroAsset": {
+        "url": "/file-bucket/event-hero8.jpg",
+        "width": 1170,
+        "height": 500,
+        "alt": "Crowd gathered by tables near a purple-lit stage"
+      },
+      "location": "Velvet Lounge",
+      "category": "R&B",
+      "lineup": ["Nia Vale", "Oscar Wav", "Late set by SLOWCUT"],
+      "schedule": [
+        {
+          "time": "21:00",
+          "label": "Lounge opens"
+        },
+        {
+          "time": "22:30",
+          "label": "R&B and amapiano session"
+        },
+        {
+          "time": "00:30",
+          "label": "Afterglow late set"
+        }
+      ],
+      "price": "125 DKK",
+      "ageLimit": "20+",
+      "isFeatured": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "eventId": 1,
+      "name": "Robert Downey Junior",
+      "content": "Best club ever! The opening night felt polished from the first drink to the final track.",
+      "date": "2026-05-09T22:15:00+02:00"
+    },
+    {
+      "id": 2,
+      "eventId": 2,
+      "name": "Robert Downey Junior",
+      "content": "What an amazing evening! We came by for the retro concept and ended up staying until closing because the whole place just kept building in the right direction. The music never dipped, the bartenders were quick even when the room got packed, and the atmosphere somehow felt both polished and relaxed at the same time. If the frontend ends up showing comment excerpts, this is exactly the kind of response that should prove why truncation, line clamps and a good read-more pattern matter.",
+      "date": "2026-05-16T23:40:00+02:00"
+    },
+    {
+      "id": 3,
+      "eventId": 1,
+      "name": "Maya Stone",
+      "content": "Loved the countdown show and the new lighting setup. The room felt much bigger than before, but still intimate around the tables.",
+      "date": "2026-05-10T00:25:00+02:00"
+    },
+    {
+      "id": 4,
+      "eventId": 3,
+      "name": "Alex North",
+      "content": "The bass setup was intense in the best way. Clear sound, heavy drops, and a crowd that actually came for the music.",
+      "date": "2026-05-22T23:55:00+02:00"
+    },
+    {
+      "id": 5,
+      "eventId": 5,
+      "name": "Sara Vale",
+      "content": "Perfect Saturday energy. The disco edits made it easy for everyone in our group to get on the floor.",
+      "date": "2026-06-07T00:10:00+02:00"
+    },
+    {
+      "id": 6,
+      "eventId": 8,
+      "name": "Jonas Field",
+      "content": "Afterglow had exactly the right pace. We started in the lounge and moved to the dance floor without the night ever feeling rushed.",
+      "date": "2026-06-27T23:30:00+02:00"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "asset": {
+        "url": "/file-bucket/gallery1_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "DJ booth overlooking a crowded dance floor"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 2,
+      "asset": {
+        "url": "/file-bucket/gallery2_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "Two club guests smiling under red lights"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 3,
+      "asset": {
+        "url": "/file-bucket/gallery3_big.jpg",
+        "width": 970,
+        "height": 674,
+        "alt": "Female singer performing under blue and pink lights"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 4,
+      "asset": {
+        "url": "/file-bucket/gallery4_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "Blonde guest posing under red club lights"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 5,
+      "asset": {
+        "url": "/file-bucket/gallery5_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "Guitarist playing on a dark club stage"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 6,
+      "asset": {
+        "url": "/file-bucket/gallery6_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "Guests dancing at the front of the stage"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 7,
+      "asset": {
+        "url": "/file-bucket/gallery7_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "Crowd raising hands during a red-lit concert"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 8,
+      "asset": {
+        "url": "/file-bucket/gallery8_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "Saxophonist playing under blue stage lights"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 9,
+      "asset": {
+        "url": "/file-bucket/gallery9_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "Two guests posing together in the club"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 10,
+      "asset": {
+        "url": "/file-bucket/gallery10_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "Bearded guitarist performing under purple lights"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 11,
+      "asset": {
+        "url": "/file-bucket/gallery11_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "Female vocalist singing into a stage microphone"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 12,
+      "asset": {
+        "url": "/file-bucket/gallery12_big.jpg",
+        "width": 570,
+        "height": 256,
+        "alt": "DJ performing for a colorful dance floor"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 13,
+      "asset": {
+        "url": "/file-bucket/gallery13_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "Three guests posing together at the club"
+      },
+      "description": "A photo"
+    },
+    {
+      "id": 14,
+      "asset": {
+        "url": "/file-bucket/gallery14_big.jpg",
+        "width": 970,
+        "height": 560,
+        "alt": "Two costumed performers posing under red lights"
+      },
+      "description": "A photo"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "content": "We booked a table for six people, and the whole evening just worked. The staff were quick, the music was sharp, and the atmosphere felt exclusive without becoming stiff.",
+      "asset": {
+        "url": "/file-bucket/testimonial_1.jpg",
+        "width": 170,
+        "height": 170,
+        "alt": "Portrait of John Doe in a suit"
+      },
+      "facebook": "http://facebook.com",
+      "twitter": "http://twitter.com"
+    },
+    {
+      "id": 2,
+      "name": "Mary Doe",
+      "content": "I went to a themed night with my colleagues, and it was one of the few club experiences in Copenhagen where the sound, service, and crowd all hit the right note at the same time. What especially surprised me was how easy it was to move between the different areas during the evening without feeling like we were leaving the party. We started with drinks and conversation in the lounge, moved on to the main floor when the DJ set peaked, and ended the night back at our table without losing the energy. The staff were present throughout, and that actually made a bigger difference than I expected, because the evening felt well organized without becoming stiff or impersonal.",
+      "asset": {
+        "url": "/file-bucket/testimonial_2.jpg",
+        "width": 170,
+        "height": 170,
+        "alt": "Portrait of Mary Doe smiling"
+      },
+      "facebook": "http://facebook.com",
+      "twitter": "http://twitter.com"
+    },
+    {
+      "id": 3,
+      "name": "Steven Doe",
+      "content": "Night Club has become our go-to place for big weekends. You can start calmly in the lounge and end up on the dance floor without feeling like the evening loses momentum along the way.",
+      "asset": {
+        "url": "/file-bucket/testimonial_3.jpg",
+        "width": 170,
+        "height": 170,
+        "alt": "Portrait of Steven Doe in a suit"
+      },
+      "facebook": "http://facebook.com",
+      "twitter": "http://twitter.com"
+    }
+  ],
+  "contact_messages": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@doe.com",
+      "content": "Hi, can I book a table sometime Friday?",
+      "date": "2025-02-04T23:00:01.251Z"
+    }
+  ],
+  "reservations": [
+    {
+      "name": "John Doe",
+      "email": "john@doe.com",
+      "table": "3",
+      "guests": "3",
+      "date": "2026-05-09T20:00:00+02:00",
+      "phone": "2342 78986",
+      "eventId": 1,
+      "id": 2
+    },
+    {
+      "name": "Robert Downey Jr",
+      "email": "downey@mail.dk",
+      "table": "4",
+      "guests": "3",
+      "date": "2026-05-16T20:00:00+02:00",
+      "phone": "2342 78986",
+      "eventId": 2,
+      "id": 3
+    },
+    {
+      "name": "Robert Downey Jr",
+      "email": "downey@mail.dk",
+      "table": "2",
+      "guests": "4",
+      "date": "2026-05-22T20:30:00+02:00",
+      "phone": "2342 78986",
+      "eventId": 3,
+      "id": 4
+    }
+  ],
+  "newsletters": [
+    {
+      "id": 1,
+      "email": "john@doe.com"
+    },
+    {
+      "email": "john@example.com",
+      "id": 2
+    },
+    {
+      "email": "unique_test@example.com",
+      "id": 3
+    },
+    {
+      "email": "test_1777277072@example.com",
+      "id": 4
+    }
+  ]
+}

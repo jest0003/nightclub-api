@@ -1,0 +1,5 @@
+node_modules
+*.lock
+*.tgz
+package/
+.DS_Store
