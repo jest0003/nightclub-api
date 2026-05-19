@@ -636,5 +636,97 @@
       "email": "test_1777277072@example.com",
       "id": 4
     }
-  ]
+  ],
+  "tables": [
+    {
+      "id": 1,
+      "tableNumber": 1,
+      "seats": 4,
+      "size": "small"
+    },
+    {
+      "id": 2,
+      "tableNumber": 2,
+      "seats": 4,
+      "size": "small"
+    },
+    {
+      "id": 3,
+      "tableNumber": 3,
+      "seats": 6,
+      "size": "medium"
+    },
+    {
+      "id": 4,
+      "tableNumber": 4,
+      "seats": 4,
+      "size": "small"
+    },
+    {
+      "id": 5,
+      "tableNumber": 5,
+      "seats": 8,
+      "size": "large"
+    },
+    {
+      "id": 6,
+      "tableNumber": 6,
+      "seats": 4,
+      "size": "small"
+    },
+    {
+      "id": 7,
+      "tableNumber": 7,
+      "seats": 4,
+      "size": "small"
+    },
+    {
+      "id": 8,
+      "tableNumber": 8,
+      "seats": 6,
+      "size": "medium"
+    },
+    {
+      "id": 9,
+      "tableNumber": 9,
+      "seats": 4,
+      "size": "small"
+    },
+    {
+      "id": 10,
+      "tableNumber": 10,
+      "seats": 8,
+      "size": "large"
+    },
+    {
+      "id": 11,
+      "tableNumber": 11,
+      "seats": 4,
+      "size": "small"
+    },
+    {
+      "id": 12,
+      "tableNumber": 12,
+      "seats": 4,
+      "size": "small"
+    },
+    {
+      "id": 13,
+      "tableNumber": 13,
+      "seats": 6,
+      "size": "medium"
+    },
+    {
+      "id": 14,
+      "tableNumber": 14,
+      "seats": 4,
+      "size": "small"
+    },
+    {
+      "id": 15,
+      "tableNumber": 15,
+      "seats": 8,
+      "size": "large"
+    }
+   ]
 }
